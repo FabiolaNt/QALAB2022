@@ -21,6 +21,7 @@ public class Main {
 
 
         //Hacer doble bucle for/for
+        user = config[XPROD][CUSER];
 
 
         //CLAVE: DESARROLLO
